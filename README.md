@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amgoni
+- 👋 Hi, I’m Amin Goni
 - 👀 I’m interested in web development and UX design.
 - 🌱 I’m currently learning ReactJS.
 - 💞️ I’m looking to collaborate on front-end web development projects built on React.
